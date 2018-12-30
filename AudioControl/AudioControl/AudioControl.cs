@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace System.Windowws.Media
+namespace System.Windows.Media
 {
     public static class AudioControl
     {
