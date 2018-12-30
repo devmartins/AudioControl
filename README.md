@@ -9,7 +9,7 @@ Nuget Packages:<br>
 
 Exemplo:
 ```c#
-using System.Windowws.Media;
+using System.Windows.Media;
 
 //Para obter o volume
 var volume = AudioControl.GetMasterVolume(); //Retorna um float contendo o valor (variando entre 0 e 1.0f)
