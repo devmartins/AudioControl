@@ -1,5 +1,8 @@
 # AudioControl
 
+It is a dll for volume control of the main audio in Windows 10.<br>
+It only provides the functions for audio control of another project (<a href="https://github.com/devmartins/AudioControlNative" target="_blank">AudioControlNative</a>).<br>
+
 É uma dll para controle de volume do audio principal no Windows 10.<br>
 Ela apenas disponibiliza as funcões para controle de audio de outro projeto (<a href="https://github.com/devmartins/AudioControlNative" target="_blank">AudioControlNative</a>).<br>
 
