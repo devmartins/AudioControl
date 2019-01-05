@@ -19,7 +19,7 @@ using System.Windows.Media;
 var volume = AudioControl.GetMasterVolume();
 
 //Set the volume (use values between 0 and 1.0f)
-//Definie o volume (use valores entre 0 e 1.0f)
+//Define o volume (use valores entre 0 e 1.0f)
 AudioControl.SetMasterVolume(1.0f);
 ```
 
