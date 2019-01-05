@@ -14,11 +14,13 @@ Exemplo:
 ```c#
 using System.Windows.Media;
 
-//Para obter o volume
-var volume = AudioControl.GetMasterVolume(); //Retorna um float contendo o valor (variando entre 0 e 1.0f)
+//Returns a float containing the value (ranging from 0 to 1.0f)
+//Retorna um float contendo o valor (variando de 0 a 1.0f)
+var volume = AudioControl.GetMasterVolume();
 
-//Para configurar um volume
-AudioControl.SetMasterVolume(1.0f); //0 Sem Volume e 1.0f volume máximo (100%)
+//Set the volume (use values between 0 and 1.0f)
+//Definie o volume (use valores entre 0 e 1.0f)
+AudioControl.SetMasterVolume(1.0f);
 ```
 
 Ferramentas:<br>
