@@ -7,8 +7,10 @@ It only provides the functions for audio control of another project (<a href="ht
 Ela apenas disponibiliza as funcões para controle de audio de outro projeto (<a href="https://github.com/devmartins/AudioControlNative" target="_blank">AudioControlNative</a>).<br>
 
 Nuget Packages:<br>
-<a href="https://www.nuget.org/packages/AudioControl" target="_blank">AudioControl (x86)</a><br>
-<a href="https://www.nuget.org/packages/AudioControl.x64" target="_blank">AudioControl.x64 (x64)</a><br>
+<a href="https://www.nuget.org/packages/AudioControl" target="_blank">AudioControl (x86) 
+ <img src="https://img.shields.io/badge/Nuget-1.0.1-green.svg"/></a><br>
+<a href="https://www.nuget.org/packages/AudioControl.x64" target="_blank">AudioControl.x64 (x64) 
+<img src="https://img.shields.io/badge/Nuget-1.0.1-green.svg"/></a><br>
 
 Exemplo:
 ```c#
